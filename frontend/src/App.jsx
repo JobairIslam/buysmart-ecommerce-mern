@@ -9,10 +9,12 @@ import Login from "./pages/Login"
 import Contact from "./pages/Contact"
 import Collection from "./pages/Collection"
 import Cart from "./pages/Cart"
-
+import Navbar from './components/Navbar'
 const App = () => {
   return (
     <div>
+      <Navbar/>
+
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/about' element={<About/>}/>
