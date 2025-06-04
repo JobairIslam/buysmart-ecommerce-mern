@@ -11,7 +11,7 @@ const Hero = () => {
           <p className="text-sm text-gray-600 tracking-widest mb-2 uppercase">
             OUR BESTSELLERS
           </p>
-          <h1 className="text-5xl md:text-6xl font-serif text-gray-800 mb-6">
+          <h1 className="outfit text-5xl md:text-6xl font-serif text-gray-800 mb-6">
             Latest Arrivals
           </h1>
           <button className="text-sm text-gray-800 border-b border-gray-800 pb-1">
