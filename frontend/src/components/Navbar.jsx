@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className="w-full bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between py-5 font-bold text-gray-700">
-          <img className="w-36" src={assets.logo} alt="logo" />
+          <Link to='/'><img className="w-36" src={assets.logo} alt="logo" /></Link>
           <ul className="hidden sm:flex gap-5">
             <NavLink to="/" className="flex flex-col items-center">
               <p>Home</p>
