@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between border-b border-gray-200 pb-8">
           {/* Left Section: Logo and Description */}
           <div className="mb-8 md:mb-0 md:w-1/3">
-            <img className='w-32 pb-6' src={assets.logo} alt="" />
+            <img className='w-32 pb-6' src={assets.logo} alt="#" />
             <p className="text-gray-600 text-sm leading-relaxed">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy
