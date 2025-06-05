@@ -35,7 +35,7 @@ const Footer = () => {
             <div className="text-lg font-semibold text-gray-800 mb-4">GET IN TOUCH</div>
             <div className="space-y-2 text-gray-600 text-sm">
               <div>+1-000-000-0000</div>
-              <div>greatstackdev@gmail.com</div>
+              <div>jubairislamasif@gmail.com</div>
               <div>Instagram</div> {/* This could be a link or just text based on the SS */}
             </div>
           </div>
@@ -43,7 +43,7 @@ const Footer = () => {
 
         {/* Copyright Line */}
         <div className="text-center text-gray-500 text-sm mt-8">
-          Copyright 2024@ greatstack.dev - All Right Reserved.
+          Copyright 2024 @  - All Right Reserved.
         </div>
       </div>
     </div>
